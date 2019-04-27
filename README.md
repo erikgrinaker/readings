@@ -10,5 +10,6 @@ Interesting readings and talks in computer science.
 
 📄 Academic paper  
 📖 Book  
-🛠 Tutorial
-🌍 Website 
+🛠 Tutorial  
+🎥 Video  
+🌍 Website  
