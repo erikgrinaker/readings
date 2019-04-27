@@ -2,8 +2,9 @@
 
 ## General
 
-- [ ] 🎥 [**Advanced Database Systems**](https://www.youtube.com/playlist?list=PLSE8ODhjZXjYgTIlqf4Dy9KQpQ7kn1Tl0) (A Pavlo 2017)
+- [ ] 🎥 [**Advanced Database Systems**](https://www.youtube.com/playlist?list=PLSE8ODhjZXja3hgmuwhf89qboV1kOxMx7) (A Pavlo 2017)
 - [x] 📖 [**Designing Data-Intensive Applications**](https://dataintensive.net/) (M Kleppmann 2017)
+- [ ] 🎥 [**Intro to Database Systems**](https://www.youtube.com/playlist?list=PLSE8ODhjZXjYgTIlqf4Dy9KQpQ7kn1Tl0) (A Pavlo 2018)
 - [ ] 🛠 [**Let's Build a Simple Database**](https://cstack.github.io/db_tutorial/) (C Stack 2017)
 - [ ] 📄 [**Readings in Database Systems**](http://www.redbook.io) (P Bailis, JM Hellerstein, M Stonebraker) _"The Red Book"_
 - [ ] 📄 [Architecture of a Database System](http://db.cs.berkeley.edu/papers/fntdb07-architecture.pdf) (JM Hellerstein, M Stonebraker, J Hamilton 2007)
