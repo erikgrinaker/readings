@@ -8,4 +8,5 @@ Interesting readings and talks on computer science.
 * [**Distributed Systems**](distributed-systems.md)
 * [Languages and Compilers](languages-and-compilers.md)
 * [Mathematics](mathematics.md)
+* [Operating Systems](operating-systems.md)
 * [Programming](programming.md)
