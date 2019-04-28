@@ -13,7 +13,7 @@
 ## Verification and Specification
 
 - [x] 🔗 [**Jepsen Analyses**](https://jepsen.io/analyses)
-- [x] 🎥 [**Jepsen Talks**](https://jepsen.io/talk)
+- [x] 🎥 [**Jepsen Talks**](https://jepsen.io/talks)
 - [x] 🎥 [Everything About Distributed Systems is Terrible](https://www.youtube.com/watch?v=tfnldxWlOhM) (H Wayne 2018)
 - [ ] 📄 [Specifying Concurrent Systems With TLA+](https://www.microsoft.com/en-us/research/uploads/prod/2016/12/Specifying-Concurrent-Systems-with-TLA.pdf) (L Lamport 1999)
 
