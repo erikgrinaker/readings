@@ -1,5 +1,7 @@
 # Distributed Systems
 
+- [ ] 🔗 [MIT PDOS Reading List](http://dsrg.pdos.csail.mit.edu/papers/)
+
 ## Consensus
 
 - [ ] 📄 [**In Search of an Understandable Consensus Algorithm**](https://ramcloud.stanford.edu/raft.pdf) (D Ongaro, J Ousterhout 2014) _"The Raft Paper"_
