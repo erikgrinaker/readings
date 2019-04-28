@@ -2,17 +2,20 @@
 
 ## General
 
+- [ ] 📄 [**Architecture of a Database System**](http://db.cs.berkeley.edu/papers/fntdb07-architecture.pdf) (JM Hellerstein, M Stonebraker, J Hamilton 2007)
 - [ ] 🎥 [**CMU 15-445 Intro to Database Systems**](https://www.youtube.com/playlist?list=PLSE8ODhjZXja3hgmuwhf89qboV1kOxMx7) (A Pavlo 2018)
 - [ ] 🎥 [**CMU 15-721 Advanced Database Systems**](https://www.youtube.com/playlist?list=PLSE8ODhjZXjYgTIlqf4Dy9KQpQ7kn1Tl0) (A Pavlo 2017)
 - [x] 📖 [**Designing Data-Intensive Applications**](https://dataintensive.net/) (M Kleppmann 2017)
 - [ ] 🛠 [**Let's Build a Simple Database**](https://cstack.github.io/db_tutorial/) (C Stack 2017)
 - [ ] 📄 [**Readings in Database Systems**](http://www.redbook.io) (P Bailis, JM Hellerstein, M Stonebraker) _"The Red Book"_
-- [ ] 📄 [Architecture of a Database System](http://db.cs.berkeley.edu/papers/fntdb07-architecture.pdf) (JM Hellerstein, M Stonebraker, J Hamilton 2007)
+- [ ] 🎥 [**UC Berkeley CS186 Introduction to Database Systems**](https://archive.org/details/UCBerkeley_Course_Computer_Science_186#) (J Hellerstein 2012)
+- [ ] 📖 [Data and Reality](https://www.amazon.com/Data-Reality-Perspective-Perceiving-Information/dp/1935504215) (W Kent, S Hoberman 2012)
 - [x] 📖 [Fundamentals of Database Systems](https://www.amazon.com/Fundamentals-Database-Systems-Ramez-Elmasri/dp/0133970779) (R Elmasri, SB Navathe 2015)
 
 ## Transactions
 
 - [x] 🔗 [**Consistency Models**](https://jepsen.io/consistency) (Jepsen 2016)
+- [ ] 📖 [**Transaction Processing: Concepts and Techniques**](https://www.amazon.com/Transaction-Processing-Concepts-Techniques-Management/dp/1558601902#customerReviews) (J Gray, A Reuter 1992)
 - [ ] 📄 [A Critique of ANSI SQL Isolation Levels](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/tr-95-51.pdf) (H Berenson et al 1995)
 - [ ] 📄 [Calvin: Fast Distributed Transactions for Partitioned Database Systems](http://cs.yale.edu/homes/thomson/publications/calvin-sigmod12.pdf) (DJ Abadi et al 2012)
 - [ ] 📄 [Consistency in Non-Transactional Distributed Storage Systems](https://arxiv.org/pdf/1512.00168.pdf) (P Viotti, M Vukolić 2016)
@@ -38,5 +41,5 @@
 
 ### Google Spanner
 
-- [ ] 📄 [**Spanner: Google's Globally-Distributed Database**](http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/39966.pdf) (J Corbett et al 2012)
+- [ ] 📄 [**Spanner: Google's Globally-Distributed Database**](http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/39966.pdf) (J Corbett et al 2012) _"The Spanner paper"_
 - [x] 📄 [Spanner, TrueTime & The CAP Theorem](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45855.pdf) (E Brewer 2017)
