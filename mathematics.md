@@ -15,4 +15,4 @@
 - [ ] 📖 [Linear Algebra Done Right](http://linear.axler.net) (S Axler 2015)
 
 ## Calculus
-- [x] 📖 [**Calculus**](https://www.coursera.org/specializations/data-structures-algorithms) (J Stewart 2015)
+- [x] 📖 [**Calculus**](https://www.stewartcalculus.com) (J Stewart 2015)
