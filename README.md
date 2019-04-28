@@ -2,4 +2,4 @@
 
 Interesting readings and talks in computer science.
 
-* [Databases](databases.md)
+* [**Databases**](databases.md)
