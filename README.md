@@ -7,4 +7,5 @@ Interesting readings and talks on computer science.
 * [**Databases**](databases.md)
 * [**Distributed Systems**](distributed-systems.md)
 * [Languages and Compilers](languages-and-compilers.md)
+* [Mathematics](mathematics.md)
 * [Programming](programming.md)
