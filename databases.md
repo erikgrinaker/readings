@@ -44,6 +44,10 @@
 - [x] 💬 [Time-Traveling Databases: Exploring Temporality in FaunaDB](https://fauna.com/blog/time-traveling-databases) (M Freels 2016)
 - [x] 💬 [Unifying Relational, Document, Graph, and Temporal Data Models](https://fauna.com/blog/unifying-relational-document-graph-and-temporal-data-models) (C Anderson 2018)
 
+### Google Bigtable
+
+- [ ] 📄 [**Bigtable: A Distributed Storage System for Structured Data**](https://static.googleusercontent.com/media/research.google.com/en//archive/bigtable-osdi06.pdf) (F Chang et al 2006) _"The Bigtable paper"_
+
 ### Google Spanner
 
 - [ ] 📄 [**Spanner: Google's Globally-Distributed Database**](http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/39966.pdf) (J Corbett et al 2012) _"The Spanner paper"_
