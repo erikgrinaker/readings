@@ -26,6 +26,10 @@
 - [ ] 📖 [Building Query Compilers](http://pi3.informatik.uni-mannheim.de/~moer/querycompiler.pdf) (G Moerkotte 2014)
 - [ ] 📄 [How to Architect a Query Compiler, Revisited](https://www.cs.purdue.edu/homes/rompf/papers/tahboub-sigmod18.pdf) (RY Tahboub, GM Essertel, T Rompf 2018)
 
+## Storage
+
+- [ ] 📄 [bLSM: A General Purpose Log Structured Merge Tree](http://www.eecs.harvard.edu/~margo/cs165/papers/gp-lsm.pdf) (R Sears, R Ramakrishnan 2012)
+
 ## Vendors
 
 ### CockroachDB
