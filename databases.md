@@ -36,7 +36,7 @@
 
 ### CockroachDB
 
-- [ ] 🔗 [**Architecture Overview**](https://www.cockroachlabs.com/docs/stable/architecture/overview.html)
+- [x] 🔗 [**Architecture Overview**](https://www.cockroachlabs.com/docs/stable/architecture/overview.html)
 - [x] 💬 [**Serializable, Lockless, Distributed: Isolation in CockroachDB**](https://www.cockroachlabs.com/blog/serializable-lockless-distributed-isolation-cockroachdb/) (M Tracy 2016)
 - [x] 💬 [How We Built a Cost-Based SQL Optimizer](https://www.cockroachlabs.com/blog/building-cost-based-sql-optimizer/) (A Kimball 2018)
 - [x] 💬 [Living Without Atomic Clocks](https://www.cockroachlabs.com/blog/living-without-atomic-clocks/) (S Kimball 2016)
