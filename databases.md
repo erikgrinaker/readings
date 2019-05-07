@@ -25,6 +25,8 @@
 
 - [ ] 📖 [Building Query Compilers](http://pi3.informatik.uni-mannheim.de/~moer/querycompiler.pdf) (G Moerkotte 2014)
 - [ ] 📄 [How to Architect a Query Compiler, Revisited](https://www.cs.purdue.edu/homes/rompf/papers/tahboub-sigmod18.pdf) (RY Tahboub, GM Essertel, T Rompf 2018)
+- [ ] 📄 [Access Path Selection
+in a Relational Database Management System](https://www2.cs.duke.edu/courses/compsci516/cps216/spring03/papers/selinger-etal-1979.pdf) (PG Selinger et al 1979)
 
 ## Storage
 
