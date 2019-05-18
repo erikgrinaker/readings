@@ -59,7 +59,7 @@ in a Relational Database Management System](https://www2.cs.duke.edu/courses/com
 
 ### Google Bigtable
 
-- [ ] 📄 [**Bigtable: A Distributed Storage System for Structured Data**](https://static.googleusercontent.com/media/research.google.com/en//archive/bigtable-osdi06.pdf) (F Chang et al 2006) _"The Bigtable paper"_
+- [x] 📄 [**Bigtable: A Distributed Storage System for Structured Data**](https://static.googleusercontent.com/media/research.google.com/en//archive/bigtable-osdi06.pdf) (F Chang et al 2006) _"The Bigtable paper"_
 
 ### Google Spanner
 
