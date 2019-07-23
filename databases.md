@@ -62,9 +62,9 @@ in a Relational Database Management System](https://www2.cs.duke.edu/courses/com
 
 - [x] 📄 [**Bigtable: A Distributed Storage System for Structured Data**](https://static.googleusercontent.com/media/research.google.com/en//archive/bigtable-osdi06.pdf) (F Chang et al 2006) _"The Bigtable paper"_
 
-Google F1
+### Google F1
 
-- https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/41344.pdf
+- [ ] 📄 [**F1: A Distributed SQL Database That Scales**](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/41344.pdf) _"The F1 paper"_
 
 ### Google Spanner
 
