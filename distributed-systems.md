@@ -8,6 +8,7 @@
 - [ ] 📄 [**The Byzantine Generals Problem**](https://www.microsoft.com/en-us/research/uploads/prod/2016/12/The-Byzantine-Generals-Problem.pdf) (L Lamport et al 1982)
 - [ ] 📄 [**The Part-Time Parliament**](https://lamport.azurewebsites.net/pubs/lamport-paxos.pdf) (L Lamport 1998) _"The Paxos Paper"_
 - [x] 🎥 [Designing for Understandability: The Raft Consensus Algorithm](https://www.youtube.com/watch?v=vYp4LYbnnW8) (D Ongaro 2016)
+- [x] 🔗 [Students' Guide to Raft](https://thesquareplanet.com/blog/students-guide-to-raft/) (J Gjengset 2016)
 - [ ] 📃 [The Chubby lock service for loosely-coupled distributed systems](https://static.googleusercontent.com/media/research.google.com/en//archive/chubby-osdi06.pdf) (M Burrows 2006)
 
 ## Verification and Specification
