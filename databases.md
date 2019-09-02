@@ -23,6 +23,7 @@
 - [ ] 📄 [Consistency in Non-Transactional Distributed Storage Systems](https://arxiv.org/pdf/1512.00168.pdf) (P Viotti, M Vukolić 2016)
 - [ ] 📄 [Generalized Isolation Level Definitions](http://pmg.csail.mit.edu/papers/icde00.pdf) (A Adya, B Liskov, P ONeil 2000)
 - [ ] 📄 [Highly Available Transactions: Virtues and Limitations](http://www.vldb.org/pvldb/vol7/p181-bailis.pdf) (P Bailis, JM Hellerstein et al 2013)
+- [ ] 💬 [How Postgres Makes Transactions Atomic](https://brandur.org/postgres-atomicity) (B Leach 2017)
 - [ ] 📄 [Naming and Synchronization in a Decentralized Computer System](https://dspace.mit.edu/bitstream/handle/1721.1/16279/05331643-MIT.pdf) (DP Reed 1978) _"The MVCC paper"_
 - [ ] 📄 [Serializable Isolation for Snapshot Databases](https://courses.cs.washington.edu/courses/cse444/08au/544M/READING-LIST/fekete-sigmod2008.pdf) (MJ Cahill, U Röhm, AD Fekete 2008)
 - [ ] 📄 [Serializable Snapshot Isolation in PostgreSQL](https://drkp.net/papers/ssi-vldb12.pdf) (DRK Ports, K Grittner 2012)
