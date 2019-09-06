@@ -19,10 +19,11 @@
 - [ ] 📖 [**Transaction Processing: Concepts and Techniques**](https://www.amazon.com/Transaction-Processing-Concepts-Techniques-Management/dp/1558601902#customerReviews) (J Gray, A Reuter 1992)
 - [ ] 📄 [A Critique of ANSI SQL Isolation Levels](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/tr-95-51.pdf) (H Berenson et al 1995)
 - [ ] 📄 [Building Consistent Transactions with Inconsistent Replication](http://delivery.acm.org/10.1145/2820000/2815404/p263-zhang.pdf) (I Zhang et al 2015)
-- [ ] 📄 [Calvin: Fast Distributed Transactions for Partitioned Database Systems](http://cs.yale.edu/homes/thomson/publications/calvin-sigmod12.pdf) (DJ Abadi et al 2012)
+- [ ] 📄 [Calvin: Fast Distributed Transactions for Partitioned Database Systems](http://cs.yale.edu/homes/thomson/publications/calvin-sigmod12.pdf) (DJ Abadi et al 2012) _"The Calvin paper"_
 - [ ] 📄 [Consistency in Non-Transactional Distributed Storage Systems](https://arxiv.org/pdf/1512.00168.pdf) (P Viotti, M Vukolić 2016)
 - [ ] 📄 [Generalized Isolation Level Definitions](http://pmg.csail.mit.edu/papers/icde00.pdf) (A Adya, B Liskov, P ONeil 2000)
 - [ ] 📄 [Highly Available Transactions: Virtues and Limitations](http://www.vldb.org/pvldb/vol7/p181-bailis.pdf) (P Bailis, JM Hellerstein et al 2013)
+- [ ] 💬 [How Postgres Makes Transactions Atomic](https://brandur.org/postgres-atomicity) (B Leach 2017)
 - [ ] 📄 [Naming and Synchronization in a Decentralized Computer System](https://dspace.mit.edu/bitstream/handle/1721.1/16279/05331643-MIT.pdf) (DP Reed 1978) _"The MVCC paper"_
 - [ ] 📄 [Serializable Isolation for Snapshot Databases](https://courses.cs.washington.edu/courses/cse444/08au/544M/READING-LIST/fekete-sigmod2008.pdf) (MJ Cahill, U Röhm, AD Fekete 2008)
 - [ ] 📄 [Serializable Snapshot Isolation in PostgreSQL](https://drkp.net/papers/ssi-vldb12.pdf) (DRK Ports, K Grittner 2012)
@@ -63,9 +64,9 @@ in a Relational Database Management System](https://www2.cs.duke.edu/courses/com
 
 - [x] 📄 [**Bigtable: A Distributed Storage System for Structured Data**](https://static.googleusercontent.com/media/research.google.com/en//archive/bigtable-osdi06.pdf) (F Chang et al 2006) _"The Bigtable paper"_
 
-Google F1
+### Google F1
 
-- https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/41344.pdf
+- [ ] 📄 [**F1: A Distributed SQL Database That Scales**](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/41344.pdf) _"The F1 paper"_
 
 ### Google Spanner
 
