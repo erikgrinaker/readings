@@ -5,7 +5,9 @@
 - [ ] 📄 [**The Byzantine Generals Problem**](https://www.microsoft.com/en-us/research/uploads/prod/2016/12/The-Byzantine-Generals-Problem.pdf) (L Lamport et al 1982)
 - [ ] 📃 [**Time, Clocks, and the Ordering of Events in a Distributed System**](https://www.microsoft.com/en-us/research/uploads/prod/2016/12/Time-Clocks-and-the-Ordering-of-Events-in-a-Distributed-System.pdf) (L Lamport 1978)
 - [ ] 📃 [The Chubby lock service for loosely-coupled distributed systems](https://static.googleusercontent.com/media/research.google.com/en//archive/chubby-osdi06.pdf) (M Burrows 2006)
-- [ ] 📃 [Impossibility of Distributed Consensus with One Faulty Process](http://macs.citadel.edu/rudolphg/csci604/ImpossibilityofConsensus.pdf) (MJ Fischer, NA Lynch, MS Paterson 1985)
+- [ ] 📃 [Consensus in the Presence of Partial Synchrony](https://groups.csail.mit.edu/tds/papers/Lynch/jacm88.pdf) (C Dwork, N Lynch, L Stockmeyer 1988) _"The DLS paper"_
+- [ ] 📃 [Impossibility of Distributed Consensus with One Faulty Process](http://macs.citadel.edu/rudolphg/csci604/ImpossibilityofConsensus.pdf) (MJ Fischer, NA Lynch, MS Paterson 1985) _"The FLP paper"_
+- [ ] 📃 [Practical Byzantine Fault Tolerance](http://pmg.csail.mit.edu/papers/osdi99.pdf) (M Castro, B Liskov 1999) _"The PBFT paper"_
 - [ ] 📃 [Viewstamped Replication Revisited](http://pmg.csail.mit.edu/papers/vr-revisited.pdf) (B Liskov, J Cowling 2012)
 - [ ] 📃 [ZooKeeper: Wait-free coordination for Internet-scale systems](http://static.usenix.org/event/usenix10/tech/full_papers/Hunt.pdf) (P Hunt, M Konar, FP Junquiera, B Reed 2010) _"The ZooKeeper paper"_
 
