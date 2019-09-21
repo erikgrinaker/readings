@@ -7,7 +7,7 @@
 - [ ] 📄 [**The Part-Time Parliament**](https://lamport.azurewebsites.net/pubs/lamport-paxos.pdf) (L Lamport 1998) _"The Paxos Paper"_
 - [ ] 📃 [**Time, Clocks, and the Ordering of Events in a Distributed System**](https://www.microsoft.com/en-us/research/uploads/prod/2016/12/Time-Clocks-and-the-Ordering-of-Events-in-a-Distributed-System.pdf) (L Lamport 1978)
 - [x] 🎥 [Designing for Understandability: The Raft Consensus Algorithm](https://www.youtube.com/watch?v=vYp4LYbnnW8) (D Ongaro 2016)
-- [ ] 📃 [Impossibility of Distributed Consensuswith One Faulty Process](http://macs.citadel.edu/rudolphg/csci604/ImpossibilityofConsensus.pdf) (MJ Fischer, NA Lynch, MS Paterson 1985)
+- [ ] 📃 [Impossibility of Distributed Consensus with One Faulty Process](http://macs.citadel.edu/rudolphg/csci604/ImpossibilityofConsensus.pdf) (MJ Fischer, NA Lynch, MS Paterson 1985)
 - [ ] 📃 [Paxos Made Live - An Engineering Perspective](https://www.cs.utexas.edu/users/lorenzo/corsi/cs380d/papers/paper2-1.pdf) (T Chandra, R Griesemer, J Redstone 2007)
 - [ ] 📄 [Paxos Made Simple](https://www.microsoft.com/en-us/research/uploads/prod/2016/12/paxos-simple-Copy.pdf) (L Lamport 2001)
 - [x] 🔗 [Students' Guide to Raft](https://thesquareplanet.com/blog/students-guide-to-raft/) (J Gjengset 2016)
