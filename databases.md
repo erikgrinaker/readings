@@ -22,11 +22,9 @@
 - [ ] 📄 [Consistency in Non-Transactional Distributed Storage Systems](https://arxiv.org/pdf/1512.00168.pdf) (P Viotti, M Vukolić 2016)
 - [ ] 📄 [Generalized Isolation Level Definitions](http://pmg.csail.mit.edu/papers/icde00.pdf) (A Adya, B Liskov, P ONeil 2000)
 - [ ] 📄 [Highly Available Transactions: Virtues and Limitations](http://www.vldb.org/pvldb/vol7/p181-bailis.pdf) (P Bailis, JM Hellerstein et al 2013)
-- [x] 💬 [How Postgres Makes Transactions Atomic](https://brandur.org/postgres-atomicity) (B Leach 2017)
 - [ ] 📄 [Naming and Synchronization in a Decentralized Computer System](https://dspace.mit.edu/bitstream/handle/1721.1/16279/05331643-MIT.pdf) (DP Reed 1978) _"The MVCC paper"_
 - [ ] 📄 [Rethinking serializable multiversion concurrency control](http://www.jmfaleiro.com/pubs/multiversion-vldb2015.pdf) (JM Faleiro, DJ Abadi 2015)
 - [ ] 📄 [Serializable Isolation for Snapshot Databases](https://courses.cs.washington.edu/courses/cse444/08au/544M/READING-LIST/fekete-sigmod2008.pdf) (MJ Cahill, U Röhm, AD Fekete 2008)
-- [ ] 📄 [Serializable Snapshot Isolation in PostgreSQL](https://drkp.net/papers/ssi-vldb12.pdf) (DRK Ports, K Grittner 2012)
 - [x] 💬 [What Does Write Skew Look Like](http://justinjaffray.com/what-does-write-skew-look-like/) (J Jaffray 2018)
 
 ## Queries
@@ -73,3 +71,9 @@ in a Relational Database Management System](https://www2.cs.duke.edu/courses/com
 
 - [ ] 📄 [**Spanner: Google's Globally-Distributed Database**](http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/39966.pdf) (J Corbett et al 2012) _"The Spanner paper"_
 - [x] 📄 [Spanner, TrueTime & The CAP Theorem](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45855.pdf) (E Brewer 2017)
+
+### PostgreSQL
+
+- [x] 💬 [How Postgres Makes Transactions Atomic](https://brandur.org/postgres-atomicity) (B Leach 2017)
+- [ ] 📄 [Serializable Snapshot Isolation in PostgreSQL](https://drkp.net/papers/ssi-vldb12.pdf) (DRK Ports, K Grittner 2012)
+- [ ] 📖 [The Internals of PostgreSQL](http://www.interdb.jp/pg/) (H Suzuki 2015)
