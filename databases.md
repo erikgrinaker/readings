@@ -24,6 +24,7 @@
 - [ ] 📄 [Highly Available Transactions: Virtues and Limitations](http://www.vldb.org/pvldb/vol7/p181-bailis.pdf) (P Bailis, JM Hellerstein et al 2013)
 - [x] 💬 [How Postgres Makes Transactions Atomic](https://brandur.org/postgres-atomicity) (B Leach 2017)
 - [ ] 📄 [Naming and Synchronization in a Decentralized Computer System](https://dspace.mit.edu/bitstream/handle/1721.1/16279/05331643-MIT.pdf) (DP Reed 1978) _"The MVCC paper"_
+- [ ] 📄 [Rethinking serializable multiversion concurrency control](http://www.jmfaleiro.com/pubs/multiversion-vldb2015.pdf) (JM Faleiro, DJ Abadi 2015)
 - [ ] 📄 [Serializable Isolation for Snapshot Databases](https://courses.cs.washington.edu/courses/cse444/08au/544M/READING-LIST/fekete-sigmod2008.pdf) (MJ Cahill, U Röhm, AD Fekete 2008)
 - [ ] 📄 [Serializable Snapshot Isolation in PostgreSQL](https://drkp.net/papers/ssi-vldb12.pdf) (DRK Ports, K Grittner 2012)
 - [x] 💬 [What Does Write Skew Look Like](http://justinjaffray.com/what-does-write-skew-look-like/) (J Jaffray 2018)
@@ -41,6 +42,7 @@ in a Relational Database Management System](https://www2.cs.duke.edu/courses/com
 
 - [ ] 📄 [Aries: A transaction recovery method supporting fine-granularity locking and partial rollbacks using write-ahead logging](https://cs.stanford.edu/people/chrismre/cs345/rl/aries.pdf) (C Mohan et al 1992)
 - [ ] 📄 [bLSM: A General Purpose Log Structured Merge Tree](http://www.eecs.harvard.edu/~margo/cs165/papers/gp-lsm.pdf) (R Sears, R Ramakrishnan 2012)
+- [ ] [Jungle: Towards Dynamically Adjustable Key-Value Store by Combining LSM-Tree and Copy-On-Write B+-Tree](https://greensky00.github.io/pdf/jungle_hotstorage19.pdf) (JS Ahn et al 2019)
 - [ ] 📄 [The Log-Structured Merge Tree](https://www.cs.umb.edu/~poneil/lsmtree.pdf) (P O'Neil, E Cheng, D Gawklik, E O'Neil 1996)
 - [ ] 📄 [The Ubiquitous B-Tree](http://cgi.di.uoa.gr/~ad/M149/ubiquitous_btree.pdf) (D Comer 1979)
 - [ ] 📄 [WiscKey: Separating Keys from Values in SSD-Conscious Storage](https://www.usenix.org/system/files/conference/fast16/fast16-papers-lu.pdf) (L Lu, TS Pillai, AC Arpaci-Dusseau, RH Arpaci-Dusseau 2016)
