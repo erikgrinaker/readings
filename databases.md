@@ -11,6 +11,7 @@
 - [ ] 📖 [Data and Reality](https://www.amazon.com/Data-Reality-Perspective-Perceiving-Information/dp/1935504215) (W Kent, S Hoberman 2012)
 - [ ] 📖 [Database System Concepts](https://www.db-book.com/db7/index.html) (A Silberschatz, HF Korth, S Sudarshan 2019)
 - [x] 📖 [Fundamentals of Database Systems](https://www.amazon.com/Fundamentals-Database-Systems-Ramez-Elmasri/dp/0133970779) (R Elmasri, SB Navathe 2015)
+- [ ] 📄 [What's Really New with NewSQL?](https://db.cs.cmu.edu/papers/2016/pavlo-newsql-sigmodrec2016.pdf) (A Pavlo, M Aslett 2016)
 
 ## Transactions
 
