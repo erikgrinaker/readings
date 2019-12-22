@@ -27,7 +27,6 @@
 - [ ] 📄 [Naming and Synchronization in a Decentralized Computer System](https://dspace.mit.edu/bitstream/handle/1721.1/16279/05331643-MIT.pdf) (DP Reed 1978) _"The MVCC paper"_
 - [ ] 📄 [Rethinking serializable multiversion concurrency control](http://www.jmfaleiro.com/pubs/multiversion-vldb2015.pdf) (JM Faleiro, DJ Abadi 2015)
 - [ ] 📄 [Serializable Isolation for Snapshot Databases](https://courses.cs.washington.edu/courses/cse444/08au/544M/READING-LIST/fekete-sigmod2008.pdf) (MJ Cahill, U Röhm, AD Fekete 2008)
-- [ ] 📖 [Weak Consistency: A Generalized Theory and Optimistic Implementations for Distributed Transactions](http://publications.csail.mit.edu/lcs/pubs/pdf/MIT-LCS-TR-786.pdf) (A Adya 1999)
 - [x] 💬 [What Does Write Skew Look Like](http://justinjaffray.com/what-does-write-skew-look-like/) (J Jaffray 2018)
 
 ## Queries
