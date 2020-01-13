@@ -13,7 +13,7 @@
 ### Paxos
 
 - [ ] 📄 [**The Part-Time Parliament**](https://lamport.azurewebsites.net/pubs/lamport-paxos.pdf) (L Lamport 1998) _"The Paxos Paper"_
-- [ ] 📄 [Paxos Made Live - An Engineering Perspective](https://www.cs.utexas.edu/users/lorenzo/corsi/cs380d/papers/paper2-1.pdf) (T Chandra, R Griesemer, J Redstone 2007)
+- [x] 📄 [Paxos Made Live - An Engineering Perspective](https://www.cs.utexas.edu/users/lorenzo/corsi/cs380d/papers/paper2-1.pdf) (T Chandra, R Griesemer, J Redstone 2007)
 - [x] 📄 [Paxos Made Simple](https://www.microsoft.com/en-us/research/uploads/prod/2016/12/paxos-simple-Copy.pdf) (L Lamport 2001)
 
 ### Raft
