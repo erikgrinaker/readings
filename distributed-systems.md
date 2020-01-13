@@ -25,7 +25,7 @@
 ### Viewstamped Replication
 
 - [ ] 📄 [**Viewstamped Replication Revisited**](http://pmg.csail.mit.edu/papers/vr-revisited.pdf) (B Liskov, J Cowling 2012)
-- [ ] [Viewstamped Replication Explained](http://blog.brunobonacci.com/2018/07/15/viewstamped-replication-explained/) (B Bonacci 2018)
+- [ ] 🔗 [Viewstamped Replication Explained](http://blog.brunobonacci.com/2018/07/15/viewstamped-replication-explained/) (B Bonacci 2018)
 
 ## Verification
 
