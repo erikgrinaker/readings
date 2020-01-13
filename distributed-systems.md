@@ -8,7 +8,6 @@
 - [ ] 📄 [Consensus in the Presence of Partial Synchrony](https://groups.csail.mit.edu/tds/papers/Lynch/jacm88.pdf) (C Dwork, N Lynch, L Stockmeyer 1988) _"The DLS paper"_
 - [x] 📄 [Impossibility of Distributed Consensus with One Faulty Process](http://macs.citadel.edu/rudolphg/csci604/ImpossibilityofConsensus.pdf) (MJ Fischer, NA Lynch, MS Paterson 1985) _"The FLP paper"_
 - [x] 📄 [Practical Byzantine Fault Tolerance](http://pmg.csail.mit.edu/papers/osdi99.pdf) (M Castro, B Liskov 1999) _"The PBFT paper"_
-- [ ] 📄 [Viewstamped Replication Revisited](http://pmg.csail.mit.edu/papers/vr-revisited.pdf) (B Liskov, J Cowling 2012)
 - [ ] 📄 [ZooKeeper: Wait-free coordination for Internet-scale systems](http://static.usenix.org/event/usenix10/tech/full_papers/Hunt.pdf) (P Hunt, M Konar, FP Junquiera, B Reed 2010) _"The ZooKeeper paper"_
 
 ### Paxos
@@ -22,6 +21,11 @@
 - [x] 📄 [**In Search of an Understandable Consensus Algorithm**](https://raft.github.io/raft.pdf) (D Ongaro, J Ousterhout 2014) _"The Raft Paper"_
 - [x] 🎥 [Designing for Understandability: The Raft Consensus Algorithm](https://www.youtube.com/watch?v=vYp4LYbnnW8) (D Ongaro 2016)
 - [x] 🔗 [Students' Guide to Raft](https://thesquareplanet.com/blog/students-guide-to-raft/) (J Gjengset 2016)
+
+### Viewstamped Replication
+
+- [ ] 📄 [**Viewstamped Replication Revisited**](http://pmg.csail.mit.edu/papers/vr-revisited.pdf) (B Liskov, J Cowling 2012)
+- [ ] [Viewstamped Replication Explained](http://blog.brunobonacci.com/2018/07/15/viewstamped-replication-explained/) (B Bonacci 2018)
 
 ## Verification
 
