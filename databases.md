@@ -27,6 +27,7 @@
 - [ ] 📄 [Highly Available Transactions: Virtues and Limitations](http://www.vldb.org/pvldb/vol7/p181-bailis.pdf) (P Bailis, JM Hellerstein et al 2013)
 - [ ] 📄 [Naming and Synchronization in a Decentralized Computer System](https://dspace.mit.edu/bitstream/handle/1721.1/16279/05331643-MIT.pdf) (DP Reed 1978) _"The MVCC paper"_
 - [ ] 📄 [Rethinking serializable multiversion concurrency control](http://www.jmfaleiro.com/pubs/multiversion-vldb2015.pdf) (JM Faleiro, DJ Abadi 2015)
+- [ ] 📄 [Scalable Atomic Visibility with RAMP Transactions](http://www.bailis.org/papers/ramp-sigmod2014.pdf) (P Bailis et al 2014)
 - [ ] 📄 [Serializable Isolation for Snapshot Databases](https://courses.cs.washington.edu/courses/cse444/08au/544M/READING-LIST/fekete-sigmod2008.pdf) (MJ Cahill, U Röhm, AD Fekete 2008)
 - [x] 💬 [What Does Write Skew Look Like](http://justinjaffray.com/what-does-write-skew-look-like/) (J Jaffray 2018)
 
