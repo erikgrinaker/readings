@@ -12,6 +12,7 @@
 - [ ] 📖 [Data and Reality](https://www.amazon.com/Data-Reality-Perspective-Perceiving-Information/dp/1935504215) (W Kent, S Hoberman 2012)
 - [ ] 📖 [Database System Concepts](https://www.db-book.com/db7/index.html) (A Silberschatz, HF Korth, S Sudarshan 2019)
 - [x] 📖 [Fundamentals of Database Systems](https://www.amazon.com/Fundamentals-Database-Systems-Ramez-Elmasri/dp/0133970779) (R Elmasri, SB Navathe 2015)
+- [ ] 📖 [Making Databases Work: the Pragmatic Wisdom of Michael Stonebraker])(https://dl.acm.org/doi/book/10.1145/3226595) (ML Brodie 2018)
 - [ ] 📄 [What's Really New with NewSQL?](https://db.cs.cmu.edu/papers/2016/pavlo-newsql-sigmodrec2016.pdf) (A Pavlo, M Aslett 2016)
 
 ## Transactions
@@ -45,22 +46,31 @@ in a Relational Database Management System](https://www2.cs.duke.edu/courses/com
 
 - [ ] 📄 [Aries: A transaction recovery method supporting fine-granularity locking and partial rollbacks using write-ahead logging](https://cs.stanford.edu/people/chrismre/cs345/rl/aries.pdf) (C Mohan et al 1992)
 - [ ] 📄 [bLSM: A General Purpose Log Structured Merge Tree](http://www.eecs.harvard.edu/~margo/cs165/papers/gp-lsm.pdf) (R Sears, R Ramakrishnan 2012)
+- [ ] 📄 [Building a Bw-Tree Takes More Than Just Buzz Words](http://www.cs.cmu.edu/~huanche1/publications/open_bwtree.pdf) (Z Wang et al 2018)
 - [ ] 📄 [Jungle: Towards Dynamically Adjustable Key-Value Store by Combining LSM-Tree and Copy-On-Write B+-Tree](https://greensky00.github.io/pdf/jungle_hotstorage19.pdf) (JS Ahn et al 2019)
+- [ ] 📄 [The Bw-Tree: A B-tree for New Hardware Platforms](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/bw-tree-icde2013-final.pdf) (JJ Levandoski, DB Lomet, S Sengupta 2013)
 - [ ] 📄 [The Log-Structured Merge Tree](https://www.cs.umb.edu/~poneil/lsmtree.pdf) (P O'Neil, E Cheng, D Gawklik, E O'Neil 1996)
 - [x] 📄 [The Ubiquitous B-Tree](http://cgi.di.uoa.gr/~ad/M149/ubiquitous_btree.pdf) (D Comer 1979)
 - [ ] 📄 [WiscKey: Separating Keys from Values in SSD-Conscious Storage](https://www.usenix.org/system/files/conference/fast16/fast16-papers-lu.pdf) (L Lu, TS Pillai, AC Arpaci-Dusseau, RH Arpaci-Dusseau 2016)
+
+## Verification
+
+- [x] 🎥 [SQLancer: Finding Logic Bugs in Database Management Systems](https://www.youtube.com/watch?v=Np46NQ6lqP8) (M Rigger 2020)
+- [ ] 📄 [Torturing Databases for Fun and Profit](https://www.usenix.org/system/files/conference/osdi14/osdi14-paper-zheng_mai.pdf) (M Zheng et al 2014)
 
 ## Vendors
 
 ### CockroachDB
 
 - [x] 🔗 [**Architecture Overview**](https://www.cockroachlabs.com/docs/stable/architecture/overview.html)
+- [ ] 📄 [**CockroachDB: The Resilient Geo-Distributed SQL Database**](https://dl.acm.org/doi/pdf/10.1145/3318464.3386134) (R Taft et al 2020)
 - [x] 💬 [**Serializable, Lockless, Distributed: Isolation in CockroachDB**](https://www.cockroachlabs.com/blog/serializable-lockless-distributed-isolation-cockroachdb/) (M Tracy 2016)
 - [x] 💬 [How We Built a Cost-Based SQL Optimizer](https://www.cockroachlabs.com/blog/building-cost-based-sql-optimizer/) (A Kimball 2018)
 - [x] 💬 [Living Without Atomic Clocks](https://www.cockroachlabs.com/blog/living-without-atomic-clocks/) (S Kimball 2016)
 
 ### FaunaDB
 
+- [ ] 💬 [Spanner vs. Calvin: Distributed Consistency at Scale](https://fauna.com/blog/distributed-consistency-at-scale-spanner-vs-calvin) (DJ Abadi 2017)
 - [x] 💬 [Time-Traveling Databases: Exploring Temporality in FaunaDB](https://fauna.com/blog/time-traveling-databases) (M Freels 2016)
 - [x] 💬 [Unifying Relational, Document, Graph, and Temporal Data Models](https://fauna.com/blog/unifying-relational-document-graph-and-temporal-data-models) (C Anderson 2018)
 
@@ -75,10 +85,12 @@ in a Relational Database Management System](https://www2.cs.duke.edu/courses/com
 ### Google Spanner
 
 - [ ] 📄 [**Spanner: Google's Globally-Distributed Database**](http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/39966.pdf) (J Corbett et al 2012) _"The Spanner paper"_
+- [ ] 📄 [Spanner: Becoming a SQL System](https://dl.acm.org/doi/pdf/10.1145/3035918.3056103) (DF Bacon et al 2017)
 - [x] 📄 [Spanner, TrueTime & The CAP Theorem](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45855.pdf) (E Brewer 2017)
 
 ### PostgreSQL
 
+- [ ] 📄 [**Looking Back at Postgres**](https://arxiv.org/pdf/1901.01973.pdf) (JM Hellerstein 2019)
 - [x] 💬 [How Postgres Makes Transactions Atomic](https://brandur.org/postgres-atomicity) (B Leach 2017)
 - [ ] 📄 [Serializable Snapshot Isolation in PostgreSQL](https://drkp.net/papers/ssi-vldb12.pdf) (DRK Ports, K Grittner 2012)
 - [ ] 📖 [The Internals of PostgreSQL](http://www.interdb.jp/pg/) (H Suzuki 2015)
