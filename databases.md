@@ -40,6 +40,7 @@
 - [ ] 📖 [Building Query Compilers](http://pi3.informatik.uni-mannheim.de/~moer/querycompiler.pdf) (G Moerkotte 2014)
 - [ ] 📄 [How to Architect a Query Compiler, Revisited](https://www.cs.purdue.edu/homes/rompf/papers/tahboub-sigmod18.pdf) (RY Tahboub, GM Essertel, T Rompf 2018)
 - [ ] 📄 [Optimization of Queries with User-Defined Predicates](http://www.vldb.org/conf/1996/P087.PDF) (S Chaudhur, K Shim 1999)
+- [ ] 📄 [The Cascades Framework for Query Optimization](https://www.cse.iitb.ac.in/infolab/Data/Courses/CS632/Papers/Cascades-graefe.pdf) (G Graefe 1995)
 
 ## Storage
 
