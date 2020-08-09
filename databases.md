@@ -13,7 +13,7 @@
 - [x] 📖 [Fundamentals of Database Systems](https://www.amazon.com/Fundamentals-Database-Systems-Ramez-Elmasri/dp/0133970779) (R Elmasri, SB Navathe 2015)
 - [ ] 📖 [Making Databases Work: the Pragmatic Wisdom of Michael Stonebraker](https://dl.acm.org/doi/book/10.1145/3226595) (ML Brodie 2018)
 - [ ] 🎥 [UC Berkeley CS186 Introduction to Database Systems](https://archive.org/details/UCBerkeley_Course_Computer_Science_186#) (J Hellerstein 2012)
-- [ ] 📄 [What's Really New with NewSQL?](https://db.cs.cmu.edu/papers/2016/pavlo-newsql-sigmodrec2016.pdf) (A Pavlo, M Aslett 2016)
+- [x] 📄 [What's Really New with NewSQL?](https://db.cs.cmu.edu/papers/2016/pavlo-newsql-sigmodrec2016.pdf) (A Pavlo, M Aslett 2016)
 
 ## Transactions
 
