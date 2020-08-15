@@ -80,7 +80,7 @@
 
 ### FaunaDB
 
-- [ ] 💬 [Spanner vs. Calvin: Distributed Consistency at Scale](https://fauna.com/blog/distributed-consistency-at-scale-spanner-vs-calvin) (DJ Abadi 2017)
+- [x] 💬 [Spanner vs. Calvin: Distributed Consistency at Scale](https://fauna.com/blog/distributed-consistency-at-scale-spanner-vs-calvin) (DJ Abadi 2017)
 - [x] 💬 [Time-Traveling Databases: Exploring Temporality in FaunaDB](https://fauna.com/blog/time-traveling-databases) (M Freels 2016)
 - [x] 💬 [Unifying Relational, Document, Graph, and Temporal Data Models](https://fauna.com/blog/unifying-relational-document-graph-and-temporal-data-models) (C Anderson 2018)
 
