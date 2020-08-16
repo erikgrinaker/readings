@@ -69,7 +69,7 @@
 
 ## Verification
 
-- [x] 🎥 [Black-box Isolation Checking with Elle](https://www.youtube.com/watch?v=OPJ_IcdSqig) (K Kingdbury 2020)
+- [x] 🎥 [Black-box Isolation Checking with Elle](https://www.youtube.com/watch?v=OPJ_IcdSqig) (K Kingsbury 2020)
 - [x] 🎥 [SQLancer: Finding Logic Bugs in Database Management Systems](https://www.youtube.com/watch?v=Np46NQ6lqP8) (M Rigger 2020)
 - [ ] 📄 [Torturing Databases for Fun and Profit](https://www.usenix.org/system/files/conference/osdi14/osdi14-paper-zheng_mai.pdf) (M Zheng et al 2014)
 
