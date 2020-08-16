@@ -13,3 +13,8 @@
 - [x] 📖 [**Writing An Interpreter In Go**](https://interpreterbook.com) (T Ball 2016)
 - [ ] 📖 [Language Implementation Patterns](https://pragprog.com/book/tpdsl/language-implementation-patterns) (T Parr 2014)
 - [x] 💬 [Parsing Expressions by Precedence Climbing](https://eli.thegreenplace.net/2012/08/02/parsing-expressions-by-precedence-climbing) (E Bendersky 2012)
+
+### Regular Expressions
+
+- [ ] 🛠 [Let's Build a Regex Engine](https://kean.blog/post/lets-build-regex) (A Grebenyuk 2019)
+- [ ] 📄 [Regular Expression Matching Can Be Simple And Fast](https://swtch.com/~rsc/regexp/regexp1.html) (R Cox 2007)
