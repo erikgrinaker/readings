@@ -50,7 +50,7 @@
 - [ ] 📄 [Modelling Costs for a MM-DBMS](http://gram.eng.uci.edu/faculty/klin/rtdb/LM.ps) (S Listgarten, MA Neimat 1996)
 - [ ] 📄 [Optimization of Queries with User-Defined Predicates](http://www.vldb.org/conf/1996/P087.PDF) (S Chaudhur, K Shim 1999)
 - [ ] 📄 [Sort vs. Hash Revisited: Fast Join Implementation on Modern Multi-Core CPUs](https://15721.courses.cs.cmu.edu/spring2018/papers/20-sortmergejoins/kim-vldb2009.pdf) (C Kim, E Sedlar, J Chhugani 2009)
-- [ ] 📄 [The Cascades Framework for Query Optimization](https://www.cse.iitb.ac.in/infolab/Data/Courses/CS632/Papers/Cascades-graefe.pdf) (G Graefe 1995)
+- [x] 📄 [The Cascades Framework for Query Optimization](https://www.cse.iitb.ac.in/infolab/Data/Courses/CS632/Papers/Cascades-graefe.pdf) (G Graefe 1995)
 
 ## Storage
 
