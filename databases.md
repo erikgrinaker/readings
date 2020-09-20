@@ -83,6 +83,7 @@
 ### CockroachDB
 
 - [x] 🔗 [**Architecture Overview**](https://www.cockroachlabs.com/docs/stable/architecture/overview.html)
+- [x] 🎥 [**CockroachDB: Architecture of a Geo-Distributed SQL Database**](https://www.infoq.com/presentations/cockroachdb-distributed-sql/) (P Mattis 2019)
 - [x] 📄 [**CockroachDB: The Resilient Geo-Distributed SQL Database**](https://dl.acm.org/doi/pdf/10.1145/3318464.3386134) (R Taft et al 2020)
 - [x] 💬 [**Serializable, Lockless, Distributed: Isolation in CockroachDB**](https://www.cockroachlabs.com/blog/serializable-lockless-distributed-isolation-cockroachdb/) (M Tracy 2016)
 - [x] 💬 [How We Built a Cost-Based SQL Optimizer](https://www.cockroachlabs.com/blog/building-cost-based-sql-optimizer/) (A Kimball 2018)
