@@ -3,7 +3,6 @@
 ## Consensus
 
 - [x] 📄 [**The Byzantine Generals Problem**](https://www.microsoft.com/en-us/research/uploads/prod/2016/12/The-Byzantine-Generals-Problem.pdf) (L Lamport et al 1982)
-- [x] 📄 [**Time, Clocks, and the Ordering of Events in a Distributed System**](https://www.microsoft.com/en-us/research/uploads/prod/2016/12/Time-Clocks-and-the-Ordering-of-Events-in-a-Distributed-System.pdf) (L Lamport 1978)
 - [ ] 📄 [AllConcur: Leaderless Concurrent Atomic Broadcast (Extended Version)](https://arxiv.org/pdf/1608.05866.pdf) (M Poke, T Hoefler, CW Glass 2017)
 - [ ] 📄 [The Chubby lock service for loosely-coupled distributed systems](https://static.googleusercontent.com/media/research.google.com/en//archive/chubby-osdi06.pdf) (M Burrows 2006)
 - [ ] 📄 [Consensus in the Presence of Partial Synchrony](https://groups.csail.mit.edu/tds/papers/Lynch/jacm88.pdf) (C Dwork, N Lynch, L Stockmeyer 1988) _"The DLS paper"_
@@ -28,6 +27,11 @@
 
 - [ ] 📄 [**Viewstamped Replication Revisited**](http://pmg.csail.mit.edu/papers/vr-revisited.pdf) (B Liskov, J Cowling 2012)
 - [ ] 💬 [Viewstamped Replication Explained](http://blog.brunobonacci.com/2018/07/15/viewstamped-replication-explained/) (B Bonacci 2018)
+
+## Clocks
+
+- [x] 📄 [**Time, Clocks, and the Ordering of Events in a Distributed System**](https://www.microsoft.com/en-us/research/uploads/prod/2016/12/Time-Clocks-and-the-Ordering-of-Events-in-a-Distributed-System.pdf) (L Lamport 1978)
+- [ ] 📄 [Logical Physical Clocks and Consistent Snapshots in Globally Distributed Databases](https://cse.buffalo.edu/tech-reports/2014-04.pdf) (S Kulkarni et al 2014)
 
 ## Verification
 
