@@ -12,7 +12,8 @@
 
 ### Paxos
 
-- [ ] 📄 [**The Part-Time Parliament**](https://lamport.azurewebsites.net/pubs/lamport-paxos.pdf) (L Lamport 1998) _"The Paxos Paper"_
+- [ ] 📄 [**The Part-Time Parliament**](https://lamport.azurewebsites.net/pubs/lamport-paxos.pdf) (L Lamport 1998) _"The Paxos paper"_
+- [ ] 📄 [Byzantining Paxos by Refinement](https://lamport.azurewebsites.net/tla/byzsimple.pdf) (L Lamport 2010)
 - [ ] 📄 [Flexible Paxos: Quorum intersection revisited](https://arxiv.org/pdf/1608.06696.pdf) (H Howard, D Maklhi, A Spiegelman 2016)
 - [x] 📄 [Paxos Made Live - An Engineering Perspective](https://www.cs.utexas.edu/users/lorenzo/corsi/cs380d/papers/paper2-1.pdf) (T Chandra, R Griesemer, J Redstone 2007)
 - [x] 📄 [Paxos Made Simple](https://www.microsoft.com/en-us/research/uploads/prod/2016/12/paxos-simple-Copy.pdf) (L Lamport 2001)
@@ -31,7 +32,8 @@
 ## Clocks
 
 - [x] 📄 [**Time, Clocks, and the Ordering of Events in a Distributed System**](https://www.microsoft.com/en-us/research/uploads/prod/2016/12/Time-Clocks-and-the-Ordering-of-Events-in-a-Distributed-System.pdf) (L Lamport 1978)
-- [ ] 📄 [Logical Physical Clocks and Consistent Snapshots in Globally Distributed Databases](https://cse.buffalo.edu/tech-reports/2014-04.pdf) (S Kulkarni et al 2014)
+- [ ] 📄 [Logical Physical Clocks and Consistent Snapshots in Globally Distributed Databases](https://cse.buffalo.edu/tech-reports/2014-04.pdf) (S Kulkarni et al 2014) _"The HLC paper"_
+- [x] 📄 [Timestamps in Message-Passing Systems That Preserve the Partial Ordering](http://fileadmin.cs.lth.se/cs/Personal/Amr_Ergawy/dist-algos-papers/4.pdf) (CJ Fidge 1988) _"The vector clock paper"_
 
 ## Verification
 
