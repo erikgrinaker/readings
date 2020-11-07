@@ -32,7 +32,7 @@
 ## Clocks
 
 - [x] 📄 [**Time, Clocks, and the Ordering of Events in a Distributed System**](https://www.microsoft.com/en-us/research/uploads/prod/2016/12/Time-Clocks-and-the-Ordering-of-Events-in-a-Distributed-System.pdf) (L Lamport 1978)
-- [ ] 📄 [Logical Physical Clocks and Consistent Snapshots in Globally Distributed Databases](https://cse.buffalo.edu/tech-reports/2014-04.pdf) (S Kulkarni et al 2014) _"The HLC paper"_
+- [x] 📄 [Logical Physical Clocks and Consistent Snapshots in Globally Distributed Databases](https://cse.buffalo.edu/tech-reports/2014-04.pdf) (S Kulkarni et al 2014) _"The HLC paper"_
 - [x] 📄 [Timestamps in Message-Passing Systems That Preserve the Partial Ordering](http://fileadmin.cs.lth.se/cs/Personal/Amr_Ergawy/dist-algos-papers/4.pdf) (CJ Fidge 1988) _"The vector clock paper"_
 
 ## Verification
