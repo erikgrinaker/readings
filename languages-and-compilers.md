@@ -16,5 +16,5 @@
 
 ### Regular Expressions
 
-- [ ] 🛠 [Let's Build a Regex Engine](https://kean.blog/post/lets-build-regex) (A Grebenyuk 2019)
+- [x] 🛠 [Let's Build a Regex Engine](https://kean.blog/post/lets-build-regex) (A Grebenyuk 2019)
 - [ ] 📄 [Regular Expression Matching Can Be Simple And Fast](https://swtch.com/~rsc/regexp/regexp1.html) (R Cox 2007)
