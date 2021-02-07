@@ -4,7 +4,7 @@
 
 - [x] 🎥 [**CMU 15-445 Intro to Database Systems**](https://www.youtube.com/playlist?list=PLSE8ODhjZXjbohkNBWQs_otTrBTrjyohi) (A Pavlo 2019)
 - [x] 🎥 [**CMU 15-721 Advanced Database Systems**](https://www.youtube.com/playlist?list=PLSE8ODhjZXjasmrEd2_Yi1deeE360zv5O) (A Pavlo 2020)
-- [ ] 📖 [**Database Internals**](https://www.databass.dev) (A Petrov 2019)
+- [x] 📖 [**Database Internals**](https://www.databass.dev) (A Petrov 2019)
 - [x] 📖 [**Designing Data-Intensive Applications**](https://dataintensive.net/) (M Kleppmann 2017)
 - [ ] 📄 [**Readings in Database Systems**](http://www.redbook.io) (P Bailis, JM Hellerstein, M Stonebraker) _"The Red Book"_
 - [x] 📄 [Architecture of a Database System](http://db.cs.berkeley.edu/papers/fntdb07-architecture.pdf) (JM Hellerstein, M Stonebraker, J Hamilton 2007)
