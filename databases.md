@@ -88,6 +88,8 @@
 - [x] 📄 [**CockroachDB: The Resilient Geo-Distributed SQL Database**](https://dl.acm.org/doi/pdf/10.1145/3318464.3386134) (R Taft et al 2020)
 - [x] 🎥 [**CockroachDB's Query Optimizer**](https://www.youtube.com/watch?v=wHo-VtzTHx0) (R Taft 2020)
 - [x] 💬 [**Serializable, Lockless, Distributed: Isolation in CockroachDB**](https://www.cockroachlabs.com/blog/serializable-lockless-distributed-isolation-cockroachdb/) (M Tracy 2016)
+- [x] 💬 [CockroachDB's Consistency Model](https://www.cockroachlabs.com/blog/consistency-model/) (A Matei 2019)
+- [x] 💬 [How CockroachDB Does Distributed, Atomic Transactions](https://www.cockroachlabs.com/blog/how-cockroachdb-distributes-atomic-transactions/) (M Tracy 2015)
 - [x] 💬 [How We Built a Cost-Based SQL Optimizer](https://www.cockroachlabs.com/blog/building-cost-based-sql-optimizer/) (A Kimball 2018)
 - [x] 💬 [Living Without Atomic Clocks](https://www.cockroachlabs.com/blog/living-without-atomic-clocks/) (S Kimball 2016)
 
