@@ -86,12 +86,11 @@
 - [x] 🎥 [**CockroachDB's Query Optimizer**](https://www.youtube.com/watch?v=wHo-VtzTHx0) (R Taft 2020)
 - [x] 🔗 [**Design Document**](https://github.com/cockroachdb/cockroach/blob/master/docs/design.md)
 - [x] 💬 [CockroachDB's Consistency Model](https://www.cockroachlabs.com/blog/consistency-model/) (A Matei 2019)
-- [ ] 💬 [Consensus, Made Thrive](https://www.cockroachlabs.com/blog/consensus-made-thrive/) (T Grieger 2016)
+- [x] 💬 [Consensus, Made Thrive](https://www.cockroachlabs.com/blog/consensus-made-thrive/) (T Grieger 2016)
 - [x] 💬 [How CockroachDB Does Distributed, Atomic Transactions](https://www.cockroachlabs.com/blog/how-cockroachdb-distributes-atomic-transactions/) (M Tracy 2015)
 - [x] 💬 [How We Built a Cost-Based SQL Optimizer](https://www.cockroachlabs.com/blog/building-cost-based-sql-optimizer/) (A Kimball 2018)
 - [x] 💬 [Living Without Atomic Clocks](https://www.cockroachlabs.com/blog/living-without-atomic-clocks/) (S Kimball 2016)
 - [x] 💬 [Serializable, Lockless, Distributed: Isolation in CockroachDB](https://www.cockroachlabs.com/blog/serializable-lockless-distributed-isolation-cockroachdb/) (M Tracy 2016)
-- [ ] 💬 [Trust, But Verify: How CockroachDB Checks Replication](https://www.cockroachlabs.com/blog/trust-but-verify-cockroachdb-checks-replication/) (V Menezes 2016)
 
 ### FaunaDB
 
