@@ -21,9 +21,11 @@
 - [x] 🔗 [**Consistency Models**](https://jepsen.io/consistency) (Jepsen 2016)
 - [x] 📄 [**Generalized Isolation Level Definitions**](http://pmg.csail.mit.edu/papers/icde00.pdf) (A Adya, B Liskov, P ONeil 2000)
 - [ ] 📖 [**Transaction Processing: Concepts and Techniques**](https://www.amazon.com/Transaction-Processing-Concepts-Techniques-Management/dp/1558601902#customerReviews) (J Gray, A Reuter 1992)
+- [ ] 📄 [A Critique of Snapshot Isolation](https://dl.acm.org/doi/pdf/10.1145/2168836.2168853) (DG Ferro, M Yabandeh 2012)
 - [ ] 📄 [ACIDRain: Concurrency-Related Attacks on Database-Backed Web Applications](http://www.bailis.org/papers/acidrain-sigmod2017.pdf) (P Bailis, T Warszawski 2017)
 - [ ] 📄 [An Empirical Evaluation of In-Memory Multi-Version Concurrency Control](https://yingjunwu.github.io/papers/vldb2017.pdf) (Y Wu et al 2017)
 - [ ] 📄 [Building Consistent Transactions with Inconsistent Replication](http://delivery.acm.org/10.1145/2820000/2815404/p263-zhang.pdf) (I Zhang et al 2015)
+- [ ] 📄 [Calvin: Fast Distributed Transactions for Partitioned Database Systems](http://cs.yale.edu/homes/thomson/publications/calvin-sigmod12.pdf) (DJ Abadi et al 2012) _"The Calvin paper"_
 - [ ] 📄 [Consistency in Non-Transactional Distributed Storage Systems](https://arxiv.org/pdf/1512.00168.pdf) (P Viotti, M Vukolić 2016)
 - [ ] 📄 [Highly Available Transactions: Virtues and Limitations](http://www.vldb.org/pvldb/vol7/p181-bailis.pdf) (P Bailis, JM Hellerstein et al 2013)
 - [ ] 📄 [Lazy State Determination: More concurrency for contending linearizable transactions](https://arxiv.org/pdf/2007.09733.pdf) (TM Vale et al 2020)
@@ -76,26 +78,26 @@
 
 ## Vendors
 
-### Calvin
-
-- [ ] 📄 [**Calvin: Fast Distributed Transactions for Partitioned Database Systems**](http://cs.yale.edu/homes/thomson/publications/calvin-sigmod12.pdf) (DJ Abadi et al 2012) _"The Calvin paper"_
-- [x] 💬 [Spanner vs. Calvin: Distributed Consistency at Scale](https://fauna.com/blog/distributed-consistency-at-scale-spanner-vs-calvin) (DJ Abadi 2017)
-
 ### CockroachDB
 
 - [x] 🔗 [**Architecture Overview**](https://www.cockroachlabs.com/docs/stable/architecture/overview.html)
 - [x] 🎥 [**CockroachDB: Architecture of a Geo-Distributed SQL Database**](https://www.infoq.com/presentations/cockroachdb-distributed-sql/) (P Mattis 2019)
 - [x] 📄 [**CockroachDB: The Resilient Geo-Distributed SQL Database**](https://dl.acm.org/doi/pdf/10.1145/3318464.3386134) (R Taft et al 2020)
 - [x] 🎥 [**CockroachDB's Query Optimizer**](https://www.youtube.com/watch?v=wHo-VtzTHx0) (R Taft 2020)
-- [x] 💬 [**Serializable, Lockless, Distributed: Isolation in CockroachDB**](https://www.cockroachlabs.com/blog/serializable-lockless-distributed-isolation-cockroachdb/) (M Tracy 2016)
+- [x] 🔗 [**Design Document**](https://github.com/cockroachdb/cockroach/blob/master/docs/design.md)
 - [x] 💬 [CockroachDB's Consistency Model](https://www.cockroachlabs.com/blog/consistency-model/) (A Matei 2019)
+- [ ] 💬 [Consensus, Made Thrive](https://www.cockroachlabs.com/blog/consensus-made-thrive/) (T Grieger 2016)
 - [x] 💬 [How CockroachDB Does Distributed, Atomic Transactions](https://www.cockroachlabs.com/blog/how-cockroachdb-distributes-atomic-transactions/) (M Tracy 2015)
 - [x] 💬 [How We Built a Cost-Based SQL Optimizer](https://www.cockroachlabs.com/blog/building-cost-based-sql-optimizer/) (A Kimball 2018)
 - [x] 💬 [Living Without Atomic Clocks](https://www.cockroachlabs.com/blog/living-without-atomic-clocks/) (S Kimball 2016)
+- [x] 💬 [Serializable, Lockless, Distributed: Isolation in CockroachDB](https://www.cockroachlabs.com/blog/serializable-lockless-distributed-isolation-cockroachdb/) (M Tracy 2016)
+- [ ] 💬 [Trust, But Verify: How CockroachDB Checks Replication](https://www.cockroachlabs.com/blog/trust-but-verify-cockroachdb-checks-replication/) (V Menezes 2016)
 
 ### FaunaDB
 
 - [x] 📄 [**FaunaDB: An Architectural Overview**](https://fauna-assets.s3.amazonaws.com/public/FaunaDB-Technical-Whitepaper.pdf) (M Freels 2018)
+- [x] 💬 [NewSQL database systems are failing to guarantee consistency, and I blame Spanner](http://dbmsmusings.blogspot.com/2018/09/newsql-database-systems-are-failing-to.html) (DJ Abadi 2018)
+- [x] 💬 [Spanner vs. Calvin: Distributed Consistency at Scale](https://fauna.com/blog/distributed-consistency-at-scale-spanner-vs-calvin) (DJ Abadi 2017)
 - [x] 💬 [Time-Traveling Databases: Exploring Temporality in FaunaDB](https://fauna.com/blog/time-traveling-databases) (M Freels 2016)
 - [x] 💬 [Unifying Relational, Document, Graph, and Temporal Data Models](https://fauna.com/blog/unifying-relational-document-graph-and-temporal-data-models) (C Anderson 2018)
 
