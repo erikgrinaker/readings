@@ -90,6 +90,8 @@
 - [x] 💬 [How CockroachDB Does Distributed, Atomic Transactions](https://www.cockroachlabs.com/blog/how-cockroachdb-distributes-atomic-transactions/) (M Tracy 2015)
 - [x] 💬 [How We Built a Cost-Based SQL Optimizer](https://www.cockroachlabs.com/blog/building-cost-based-sql-optimizer/) (A Kimball 2018)
 - [x] 💬 [Living Without Atomic Clocks](https://www.cockroachlabs.com/blog/living-without-atomic-clocks/) (S Kimball 2016)
+- [x] 💬 [Parallel Commits: An Atomic Commit Protocol For Globally Distributed Transactions](https://www.cockroachlabs.com/blog/parallel-commits/) (N VanBenschoten 2019)
+- [x] 💬 [Pipelining Consensus Writes to Speed Up Distributed SQL Transactions](https://www.cockroachlabs.com/blog/transaction-pipelining/) (N VanBenschoten 2019)
 - [x] 💬 [Serializable, Lockless, Distributed: Isolation in CockroachDB](https://www.cockroachlabs.com/blog/serializable-lockless-distributed-isolation-cockroachdb/) (M Tracy 2016)
 
 ### FaunaDB
