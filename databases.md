@@ -9,7 +9,7 @@
 - [ ] 📄 [**Readings in Database Systems**](http://www.redbook.io) (P Bailis, JM Hellerstein, M Stonebraker) _"The Red Book"_
 - [x] 📄 [Architecture of a Database System](http://db.cs.berkeley.edu/papers/fntdb07-architecture.pdf) (JM Hellerstein, M Stonebraker, J Hamilton 2007)
 - [ ] 📖 [Data and Reality](https://www.amazon.com/Data-Reality-Perspective-Perceiving-Information/dp/1935504215) (W Kent, S Hoberman 2012)
-- [ ] 📖 [Database System Concepts](https://www.db-book.com/db7/index.html) (A Silberschatz, HF Korth, S Sudarshan 2019)
+- [ ] 📖 [Database System Concepts](https://www.db-book.com) (A Silberschatz, HF Korth, S Sudarshan 2019)
 - [x] 📖 [Fundamentals of Database Systems](https://www.amazon.com/Fundamentals-Database-Systems-Ramez-Elmasri/dp/0133970779) (R Elmasri, SB Navathe 2015)
 - [ ] 📖 [Making Databases Work: the Pragmatic Wisdom of Michael Stonebraker](https://dl.acm.org/doi/book/10.1145/3226595) (ML Brodie 2018)
 - [ ] 🎥 [UC Berkeley CS186 Introduction to Database Systems](https://archive.org/details/UCBerkeley_Course_Computer_Science_186#) (J Hellerstein 2012)
