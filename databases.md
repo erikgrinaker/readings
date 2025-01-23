@@ -63,6 +63,7 @@
 - [ ] 📄 [Building a Bw-Tree Takes More Than Just Buzz Words](http://www.cs.cmu.edu/~huanche1/publications/open_bwtree.pdf) (Z Wang et al 2018)
 - [ ] 📄 [Constant Time Recovery in Azure SQL Database](https://www.microsoft.com/en-us/research/uploads/prod/2019/06/p700-antonopoulos.pdf) (P Antonopoulos et al 2019)
 - [ ] 📄 [Enabling Efficient OS Paging for Main-Memory OLTP Databases](https://15721.courses.cs.cmu.edu/spring2016/papers/a7-stoica.pdf) (R Stoica, A Ailamaki 2013)
+- [ ] 📄 [An Introduction to Bε-trees and Write-Optimization](https://www.usenix.org/system/files/login/articles/login_oct15_05_bender.pdf) (MA Bender et al 2015)
 - [ ] 📄 [Jungle: Towards Dynamically Adjustable Key-Value Store by Combining LSM-Tree and Copy-On-Write B+-Tree](https://greensky00.github.io/pdf/jungle_hotstorage19.pdf) (JS Ahn et al 2019)
 - [ ] 📄 [Larger-than-Memory Data Management on Modern Storage Hardware for In-Memory OLTP Database Systems](https://www.cc.gatech.edu/~jarulraj/papers/2016.caching.damon.pdf) (L Ma et al 2016)
 - [ ] 📄 [The Bw-Tree: A B-tree for New Hardware Platforms](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/bw-tree-icde2013-final.pdf) (JJ Levandoski, DB Lomet, S Sengupta 2013)
