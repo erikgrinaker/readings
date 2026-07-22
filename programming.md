@@ -14,4 +14,6 @@
 ### Rust
 
 - [x] 📖 [**Programming Rust**](http://shop.oreilly.com/product/0636920040385.do) (J Blandy, J Orendorff 2017)
+- [x] 📖 [**Rust Atomics and Locks**](https://mara.nl/atomics/) (M Bos 2023)
+- [x] 📖 [**Rust for Rustaceans**](https://rust-for-rustaceans.com) (J Gjengset 2021)
 - [ ] 📖 [**The Rust Programming Language**](https://nostarch.com/rust) (S Klabnik, C Nichols 2018)
