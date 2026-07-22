@@ -11,3 +11,4 @@ Interesting readings and talks on computer science.
 * [Mathematics](mathematics.md)
 * [Operating Systems](operating-systems.md)
 * [Programming](programming.md)
+* [Search](search.md)
