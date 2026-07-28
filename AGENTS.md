@@ -6,7 +6,6 @@ This repository is a curated personal reading list for computer science. The
 root `README.md` links to topic files, and each topic file contains Markdown
 checklists grouped under subject headings.
 
-
 ## Entry Format
 
 Use one checklist item per resource:
@@ -61,6 +60,7 @@ normalize unrelated older entries as part of a focused change.
   canonical landing page when a direct PDF is unavailable or access-controlled.
 - Avoid search-result links, citation aggregators, and unofficial mirrors when
   a reliable primary source exists.
+- Do not use archive.org for removed links. Flag the entries for removal.
 
 ## Editing and Validation
 
