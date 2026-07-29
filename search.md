@@ -9,7 +9,7 @@
 - [ ] 📄 [**On the Surprising Behavior of Distance Metrics in High Dimensional Space**](https://bib.dbvis.de/uploadedFiles/155.pdf) (CC Aggarwal, A Hinneburg, DA Keim 2001)
 - [ ] 🔗 [Faiss: The Missing Manual](https://www.pinecone.io/learn/series/faiss/) (J Briggs)
 - [ ] 📄 [RaBitQ: Quantizing High-Dimensional Vectors with a Theoretical Error Bound for Approximate Nearest Neighbor Search](https://dl.acm.org/doi/pdf/10.1145/3654970) (J Gao, C Long 2024)
-- [ ] 📄 [SPANN: Highly-efficient Billion-scale Approximate Nearest Neighborhood Search](https://proceedings.neurips.cc/paper/2021/file/299dc35e747eb77177d9cea10a802da2-Paper.pdf) (Q Chen et al 2021)
+- [x] 📄 [SPANN: Highly-efficient Billion-scale Approximate Nearest Neighborhood Search](https://proceedings.neurips.cc/paper/2021/file/299dc35e747eb77177d9cea10a802da2-Paper.pdf) (Q Chen et al 2021)
 - [ ] 📄 [SPFresh: Incremental In-Place Update for Billion-Scale Vector Search](https://dl.acm.org/doi/pdf/10.1145/3600006.3613166) (Y Xu et al 2023)
 
 ## Learned Retrieval (Embeddings)
